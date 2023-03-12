@@ -1,0 +1,47 @@
+*{
+	font-family: 'Mukta', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #e9f2ef;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+#navbar{
+	background-color: #4fa19b;
+	color: #ffffff;
+}
+
+h1{
+	font-family: 'Playfair Display', serif;
+}
+
+h3, h4 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+#galhobby, #galplaying, #galactivity{
+	background-color: #357482;
+}
+
+#galhobby>h4, #galplaying>h4, #galactivity>h4 {
+	background-color: #357482;
+	color: white;
+	text-align: center;
+}
+
+input, textarea, #contactus>h2, #contactus>h4, #contactus>h1  {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+#gitlab, #linkedin{
+	max-height: 50px;
+}
+
+h2 {
+	text-align: center;
+}
